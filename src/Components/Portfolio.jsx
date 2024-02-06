@@ -34,13 +34,13 @@ const projectList = [
     title: "Gym Landing Page",
     description:
       "Start your fitness journey with FitFusion's beginners friendly fitness plans.",
-    url: "https://github.com/Chrisstinaa7/FitFusion/tree/main/Landing%20Page",
+    url: "https://github.com/Chrisstinaa7/FitFusion",
   },
   {
     title: "BMI calculator",
     description:
       "A Python project for calculating Body Mass Index (BMI) with user input validation and results display.",
-    url: "https://github.com/Chrisstinaa7/BMI-Calculator/blob/main/main.py",
+    url: "https://github.com/Chrisstinaa7/BMI-Calculator",
   },
   {
     title: "My Portfolio",
