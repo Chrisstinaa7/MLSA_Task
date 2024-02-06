@@ -31,7 +31,7 @@ const imageAltText = "desk with laptop";
  */
 const projectList = [
   {
-    title: "Gym Landing Page🎉",
+    title: "Gym Landing Page",
     description:
       "Start your fitness journey with FitFusion's beginners friendly fitness plans.",
     url: "https://chrisstinaa7.github.io/FitFusion/",
